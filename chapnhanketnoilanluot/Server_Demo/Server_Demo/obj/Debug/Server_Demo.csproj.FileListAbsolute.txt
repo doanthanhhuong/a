@@ -1,0 +1,6 @@
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Server_Demo\Server_Demo\bin\Debug\Server_Demo.exe.config
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Server_Demo\Server_Demo\bin\Debug\Server_Demo.exe
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Server_Demo\Server_Demo\bin\Debug\Server_Demo.pdb
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Server_Demo\Server_Demo\obj\Debug\Server_Demo.exe
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Server_Demo\Server_Demo\obj\Debug\Server_Demo.pdb
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Server_Demo\Server_Demo\obj\Debug\Server_Demo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Client_Demo\Client_Demo\bin\Debug\Client_Demo.exe.config
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Client_Demo\Client_Demo\bin\Debug\Client_Demo.exe
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Client_Demo\Client_Demo\bin\Debug\Client_Demo.pdb
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Client_Demo\Client_Demo\obj\Debug\Client_Demo.csprojResolveAssemblyReference.cache
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Client_Demo\Client_Demo\obj\Debug\Client_Demo.exe
+E:\document_class\Ky_2_nam_4\Hệ phân tán\Bài tập\Client_Demo\Client_Demo\obj\Debug\Client_Demo.pdb
